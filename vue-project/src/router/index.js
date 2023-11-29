@@ -4,12 +4,12 @@ import ChartDisplay from "../views/ChartDisplay.vue";
 
 const routes = [
   {
-    path: "/home",
+    path: "/",
     name: "home",
     component: HomeView,
   },
   {
-    path: "/",
+    path: "/chart",
     name: "chart",
     component: ChartDisplay,
   },

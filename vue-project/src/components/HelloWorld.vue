@@ -6,6 +6,8 @@
 </template>
 
 <script>
+// import ChartDisplay from "../views/ChartDisplay.vue";
+
 export default {
   name: "HelloWorld",
   props: {
